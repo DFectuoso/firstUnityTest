@@ -98,7 +98,7 @@ public class Ball : MonoBehaviour
 	public void PassBall(float velX)
 	{
 		// send the ball flying away from the player who threw it
-		_rigidbody.velocity = new Vector3(velX, 5, 0);
+		_rigidbody.velocity = new Vector3(velX, 0, 0);
 
 		// play pass sound
 		xa.audioManager.PlayPass();

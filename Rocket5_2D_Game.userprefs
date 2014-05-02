@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ScoreManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/CharacterAnims.cs" Line="78" Column="28" />
+      <File FileName="Assets/Scripts/Player1.cs" Line="63" Column="16" />
+      <File FileName="Assets/Scripts/Character.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/xa.cs" Line="32" Column="51" />
+      <File FileName="Assets/Scripts/ScoreManager.cs" Line="74" Column="6" />
+      <File FileName="Assets/Scripts/Player2.cs" Line="28" Column="13" />
+      <File FileName="Assets/Scripts/AudioManager.cs" Line="4" Column="26" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
